@@ -1,5 +1,6 @@
 # Hands-On Machine Learning with Scikit-Learn and TensorFlow
 **Resources:** [book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) and [code](https://github.com/ageron/handson-ml)
+> start from July 02, 2018
 
 ## Part I The fundamentals of machine learning
 
