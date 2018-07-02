@@ -3,15 +3,15 @@
 ## Part I The fundamentals of machine learning
 ----
 ## 1. the machine learning landscape
-   Testing and validating
+   * Testing and validating
 
 ## 2. End-to-End machine learning project
-   Looking the big picture
-     frame the problem
-     select a performance measure
-     check the assumptions
+   * Looking the big picture
+      * frame the problem
+      * select a performance measure
+      * check the assumptions
    
-   Dicover and visulize the data to gain insights
+   * Dicover and visulize the data to gain insights
      visualizing geographical data
      looking for correlations
      experimenting with attribute combinations
@@ -34,9 +34,9 @@
      
 
 ## 3. Classification
-   performance measures
-     accuracy using cross validation
-     confusion matrix
+   * performance measures
+      ** accuracy using cross validation
+      ** confusion matrix
      precision and recall
      precison/recall tradeoff
      the roc curve
