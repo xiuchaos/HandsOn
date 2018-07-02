@@ -1,11 +1,11 @@
 # HandsOn
 
-*Part I The fundamentals of machine learning
-
-** 1. the machine learning landscape
+## Part I The fundamentals of machine learning
+----
+## 1. the machine learning landscape
    Testing and validating
 
-** 2. End-to-End machine learning project
+## 2. End-to-End machine learning project
    Looking the big picture
      frame the problem
      select a performance measure
@@ -33,7 +33,7 @@
  Launch, monitor and maintain your system
      
 
-** 3. Classification
+## 3. Classification
    performance measures
      accuracy using cross validation
      confusion matrix
@@ -41,31 +41,31 @@
      precison/recall tradeoff
      the roc curve
      
-** 4. Training Models 
-   Linear regression
-   Gradient descent
-   Polynomial regression
-   Regularized linear models
-   Logistic regression
+## 4. Training Models 
+   * Linear regression
+   * Gradient descent
+   * Polynomial regression
+   * Regularized linear models
+   * Logistic regression
  
-** 5. Support vector machine
-   Linear SVM classification
-   Nonlinear SVM classification
-   SVM regression
-   Under the hood
+## 5. Support vector machine
+   * Linear SVM classification
+   * Nonlinear SVM classification
+   * SVM regression
+   * Under the hood
    
-** 6. Decision Tree
+## 6. Decision Tree
    
-** 7. Ensemble learning and random forests
+## 7. Ensemble learning and random forests
 
-** 8. Dimensionality Reduction
+## 8. Dimensionality Reduction
 
-
-*Part II Neural Network and Deep Learning
-** 9. tensorflow
-** 10. Neural networks
-** 11. Deep Neural networks
-** 13. Convolutional Neural networks
-** 14. Recurrent Neural networks
-** 15. Autoencoder
-** 16. Reinforcement learning
+----
+# Part II Neural Network and Deep Learning
+## 9. tensorflow
+## 10. Neural networks
+## 11. Deep Neural networks
+## 13. Convolutional Neural networks
+## 14. Recurrent Neural networks
+## 15. Autoencoder
+## 16. Reinforcement learning
