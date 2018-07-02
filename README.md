@@ -1,7 +1,5 @@
 # HandsOn
-see book [https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291] and code [https://github.com/ageron/handson-ml]
-(https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
-(https://github.com/ageron/handson-ml)
+see [book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) and [code](https://github.com/ageron/handson-ml)
 
 ## Part I The fundamentals of machine learning
 
