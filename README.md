@@ -22,28 +22,22 @@
     > 12 more sensitive to noise than l1
 * check the assumptions
    > the first question to ask you boss is what exactly is the business objective. how does the company expect to benefit from this model? Second question to ask is what the current solution looks like. It will ofter give you a reference performance, as well as insights on how to solve the problem.
-      
-   
-   * Dicover and visulize the data to gain insights
-     * visualizing geographical data
-     * looking for correlations
-     * experimenting with attribute combinations
-     
-   * Preparing the data for machine learning algrothims
-     * data cleaning
-     * custom transformers
-     * feature scaling
-     * transformation pipelines
-   
-  * Select and train a model
-   
-  * Fine-Tune your model
-      * grid search
-      * randomized search
-      * ensemble methods
-      * analyze the best models and their errors
- 
- * Launch, monitor and maintain your system
+**Dicover and visulize the data to gain insights**
+* visualizing geographical data
+* looking for correlations
+* experimenting with attribute combinations
+**Preparing the data for machine learning algorithms**
+* data cleaning
+* custom transformers
+* feature scaling
+* transformation pipelines
+**Select and train a model**
+**Fine-Tune your model**
+* grid search
+* randomized search
+* ensemble methods
+* analyze the best models and their errors
+**Launch, monitor and maintain your system**
      
 
 ### 3. Classification
