@@ -33,12 +33,15 @@
 * custom transformers
 * feature scaling
 * transformation pipelines
+
 **Select and train a model**
+
 **Fine-Tune your model**
 * grid search
 * randomized search
 * ensemble methods
 * analyze the best models and their errors
+
 **Launch, monitor and maintain your system**
      
 
