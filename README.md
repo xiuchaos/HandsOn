@@ -7,6 +7,10 @@
 ### 1. the machine learning landscape
 > hyper-parameter decides the amount of regularization to apply during learning, it must be set prior to training and remains constant during training.
    * Testing and validating
+      * generalization error - out of sample error
+      * train multiple models with various hyperparameters using training data, select model and hyper-parameter that perform best on the validation set, and estimate the generalization error on test data.
+      * avoid wasting too much training data in validation set, use cross-validation. then models are training on the full training set, and the generalized error is measured on the test set.
+
 
 ### 2. End-to-End machine learning project
    * Looking the big picture
