@@ -2,9 +2,9 @@
 **Resources:** [book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) and [code](https://github.com/ageron/handson-ml)
 > start from July 02, 2018
 
-## Part I The fundamentals of machine learning
+# Part I The fundamentals of machine learning
 
-### 1. the machine learning landscape
+## The machine learning landscape
 **Testing and validating** 
 * generalization error - out of sample error
 * train multiple models with various hyperparameters using training data, select model and hyper-parameter that perform best on the validation set, and estimate the generalization error on test data.
@@ -12,7 +12,7 @@
     > hyper-parameter decides the amount of regularization to apply during learning, it must be set prior to training and remains constant during training.
 
 
-### 2. End-to-End machine learning project
+## End-to-End machine learning project
 **Looking the big picture**
 * frame the problem
 * select a performance measure
@@ -45,13 +45,13 @@
 **Launch, monitor and maintain your system**
      
 
-### 3. Classification
-   * performance measures
-      ** accuracy using cross validation
-      ** confusion matrix
-     precision and recall
-     precison/recall tradeoff
-     the roc curve
+## Classification
+**performance measures**
+* accuracy using cross validation
+* confusion matrix
+* precision and recall
+* precison/recall tradeoff
+* the roc curve
      
 ### 4. Training Models 
    * Linear regression
