@@ -16,9 +16,9 @@
    * Looking the big picture
       * frame the problem
       * select a performance measure
-         ... root mean square errot (RMSE), 68-95-99.7
-         ... mean absolute error (MAE), l-l norm
-         ... l
+         ...root mean square errot (RMSE), 68-95-99.7
+         ...mean absolute error (MAE), l-l norm
+         ...l
       * check the assumptions
       < the first question to ask you boss is what exactly is the business objective. how does the company expect to benefit fro this model? Second question to ask is what the current solution looks like. It will ofter give you a reference performance, as well as insights on how to solve the problem.
       
