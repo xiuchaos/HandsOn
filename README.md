@@ -18,9 +18,10 @@
       * select a performance measure
          + root mean square errot (RMSE), 68-95-99.7
          + mean absolute error (MAE), l-l norm
-         + l
+         + l-k norm, the higher the norm index, the more it focuses on large values and neglect small ones
+         > 12 more sensitive to noise than l1
       * check the assumptions
-      < the first question to ask you boss is what exactly is the business objective. how does the company expect to benefit fro this model? Second question to ask is what the current solution looks like. It will ofter give you a reference performance, as well as insights on how to solve the problem.
+      > the first question to ask you boss is what exactly is the business objective. how does the company expect to benefit fro this model? Second question to ask is what the current solution looks like. It will ofter give you a reference performance, as well as insights on how to solve the problem.
       
    
    * Dicover and visulize the data to gain insights
