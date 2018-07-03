@@ -5,8 +5,7 @@
 ## Part I The fundamentals of machine learning
 
 ### 1. the machine learning landscape
-> hyper-parameter decides the amount of regularization to apply during learning and 
-> must be set prior to training and remains constant during training.
+> hyper-parameter decides the amount of regularization to apply during learning, it must be set prior to training and remains constant during training.
    * Testing and validating
 
 ### 2. End-to-End machine learning project
