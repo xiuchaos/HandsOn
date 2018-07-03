@@ -9,16 +9,16 @@
 * generalization error - out of sample error
 * train multiple models with various hyperparameters using training data, select model and hyper-parameter that perform best on the validation set, and estimate the generalization error on test data.
 * avoid wasting too much training data in validation set, use cross-validation. then models are training on the full training set, and the generalized error is measured on the test set.
-> hyper-parameter decides the amount of regularization to apply during learning, it must be set prior to training and remains constant during training.
+ > hyper-parameter decides the amount of regularization to apply during learning, it must be set prior to training and remains constant during training.
 
 
 ### 2. End-to-End machine learning project
    * Looking the big picture
       * frame the problem
       * select a performance measure
-         ...root mean square errot (RMSE), 68-95-99.7
-         ...mean absolute error (MAE), l-l norm
-         ...l
+         + root mean square errot (RMSE), 68-95-99.7
+         + mean absolute error (MAE), l-l norm
+         + l
       * check the assumptions
       < the first question to ask you boss is what exactly is the business objective. how does the company expect to benefit fro this model? Second question to ask is what the current solution looks like. It will ofter give you a reference performance, as well as insights on how to solve the problem.
       
