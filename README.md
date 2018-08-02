@@ -2,7 +2,7 @@
 **Resources:** [book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) and [code](https://github.com/ageron/handson-ml)
 > start from July 02, 2018
 
-## The machine learning landscape
+## 1.The machine learning landscape
 **Testing and validating** 
 * generalization error - out of sample error
 * train multiple models with various hyperparameters using training data, select model and hyper-parameter that perform best on the validation set, and estimate the generalization error on test data.
@@ -10,7 +10,7 @@
     > hyper-parameter decides the amount of regularization to apply during learning, it must be set prior to training and remains constant during training.
 
 
-## End-to-End machine learning project
+## 2. End-to-End machine learning project
 **Looking the big picture**
 * frame the problem
 * select a performance measure
@@ -42,7 +42,7 @@
 **Launch, monitor and maintain your system**
      
 
-## Classification
+##  3.Classification
 **performance measures**
 * accuracy using cross validation
 * confusion matrix
