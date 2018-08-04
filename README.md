@@ -3,6 +3,13 @@
 > start from July 02, 2018
 
 ## 1.The machine learning landscape
+> Machine Learning is the field of study that give computers the ability to learn without being explicityly programmed.
+
+> A computer program is said to learn formew experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.
+
+> Learning means getting better at some tasks, given some performance measure.
+
+
 **Testing and validating** 
 * generalization error - out of sample error
 * train multiple models with various hyperparameters using training data, select model and hyper-parameter that perform best on the validation set, and estimate the generalization error on test data.
@@ -11,6 +18,7 @@
 
 
 ## 2. End-to-End machine learning project
+
 **Looking the big picture**
 * frame the problem
 * select a performance measure
@@ -20,16 +28,24 @@
 * check the assumptions
    > the first question to ask you boss is what exactly is the business objective. how does the company expect to benefit from this model? Second question to ask is what the current solution looks like. It will ofter give you a reference performance, as well as insights on how to solve the problem.
 
+**Get the data**
+* Create a TestSet
+
 **Dicover and visulize the data to gain insights**
 * visualizing geographical data
 * looking for correlations
-* experimenting with attribute combinations
+* experimenting with attribute combinations 
+  + identified a few data quirks that may need to clean up before feding the data to a ML algorithm; 
+  + find interesting correaltions between attributes; 
+  + some attributes have a tail-heavy distribution, you may want to transfrom them;
+  + may helpful to try out various attribute combinations.
 
 **Preparing the data for machine learning algorithms**
+> write functions to transform the data,gradually build a library of transformations functions for reuse in future projects. 
 * data cleaning
 * custom transformers
 * feature scaling
-* transformation pipelines
+* transformation pipelines 
 
 **Select and train a model**
 
